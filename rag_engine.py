@@ -29,7 +29,7 @@ except ImportError:
 
 # Try to import HuggingFace embeddings
 try:
-    from langchain_community.embeddings import HuggingFaceEmbeddings
+    from langchain_huggingface import HuggingFaceEmbeddings
     HF_AVAILABLE = True
 except ImportError:
     HF_AVAILABLE = False

@@ -16,7 +16,7 @@ def _import_huggingface_embeddings():
         return HuggingFaceEmbeddings
     
     try:
-        from langchain_community.embeddings import HuggingFaceEmbeddings as _Embeddings
+        from langchain_huggingface import HuggingFaceEmbeddings as _Embeddings
         HuggingFaceEmbeddings = _Embeddings
         return HuggingFaceEmbeddings
     except (ImportError, OSError, RuntimeError) as e:

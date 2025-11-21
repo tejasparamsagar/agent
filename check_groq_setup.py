@@ -83,7 +83,7 @@ except Exception as e:
     print(f"[ERROR] ChatGroq import failed: {e}")
 
 try:
-    from langchain_community.embeddings import HuggingFaceEmbeddings
+    from langchain_huggingface import HuggingFaceEmbeddings
     print("[OK] HuggingFaceEmbeddings import successful")
 except Exception as e:
     print(f"[ERROR] HuggingFaceEmbeddings import failed: {e}")
