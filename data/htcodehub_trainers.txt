@@ -1,0 +1,23 @@
+Meet Our Trainers
+
+Experienced professionals dedicated to empowering the next generation of tech builders.
+
+Trainer 1 - John Doe
+Full-Stack Lead Trainer
+Seasoned developer with 10+ years in React and Node.js, passionate about mentoring aspiring full-stack engineers. John brings real-world industry experience and helps students build production-ready applications.
+
+Trainer 2 - Jane Smith
+Data Science Expert
+PhD in AI, specializing in machine learning pipelines and Gen AI integration for real-world applications. Jane has extensive experience in data science and helps students work with real datasets and deploy models.
+
+Trainer 3 - Mike Johnson
+Data Analyst Mentor
+Expert in SQL, dashboards, and data visualization, helping teams turn insights into actionable strategies. Mike teaches students how to analyze data effectively and create meaningful visualizations.
+
+Trainer 4 - Sarah Lee
+AI/ML Specialist
+Innovator in MLOps and deployment, with a focus on ethical AI and collaborative project workflows. Sarah helps students understand advanced AI concepts and deploy models in production environments.
+
+Our Training Philosophy:
+All our trainers are industry professionals with years of experience. They don't just teach theory - they share real-world insights, best practices, and help you avoid common pitfalls. Our trainers are committed to your success and provide personalized guidance throughout your learning journey.
+

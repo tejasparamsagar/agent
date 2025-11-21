@@ -1,0 +1,48 @@
+HT Code Hub Training Programs
+
+Each program blends technical training with product-building exposure, and ends with portfolio-ready proof of work.
+
+1. Full-Stack Builder Program
+Train in React, Node.js, MongoDB, and Gen AI APIs while contributing to real full-stack applications. This comprehensive program covers both frontend and backend development, database management, and modern web technologies.
+
+2. Data Science Builder Program
+Handle real datasets, train models, integrate Gen AI, and deploy working pipelines. Learn data analysis, machine learning, statistical modeling, data visualization, and production deployment.
+
+3. Data Analyst Builder Program
+Build dashboards, write SQL queries, automate insights with Gen AI — on live use cases. Focus on data analysis, business intelligence, data-driven decision making, and reporting.
+
+4. AI/ML Builder Program
+Advanced model training, real-time deployment, and collaborative MLOps workflows. Cover machine learning algorithms, deep learning, neural networks, and production deployment strategies.
+
+5. Python & ML Program
+Comprehensive Python training covering basics to advanced concepts, machine learning fundamentals, and practical applications. Perfect for beginners and intermediate learners.
+
+6. Python & Django Program
+Learn Python web development with Django framework, building scalable web applications and RESTful APIs. Master backend development with Python.
+
+7. Web Essentials Program
+Foundation course covering HTML, CSS, JavaScript, and basic web development principles. Ideal starting point for web development beginners.
+
+8. Web Professional Program
+Advanced web development covering modern frameworks, responsive design, and professional web development practices. Build production-ready websites.
+
+9. UI/UX Design Program
+Learn user interface and user experience design principles, prototyping, and design tools. Create beautiful and functional digital experiences.
+
+10. PHP & Laravel Program
+Master PHP programming and Laravel framework for building robust web applications. Learn server-side development with PHP ecosystem.
+
+11. MERN Stack Development Program
+Full-stack development using MongoDB, Express.js, React, and Node.js - the complete MERN stack. Build modern web applications from scratch.
+
+12. Digital Marketing Program
+Learn digital marketing strategies, SEO, social media marketing, content marketing, and analytics. Master online marketing techniques.
+
+All programs include:
+- Real project development
+- Team collaboration
+- Industry mentorship
+- Portfolio building
+- Job placement support
+- Lifetime career guidance
+

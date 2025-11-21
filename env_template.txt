@@ -1,0 +1,15 @@
+# Copy this file to .env and fill in your values
+
+# OpenAI Configuration (REQUIRED)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Authentication Token (REQUIRED - change this to a secure token)
+AUTH_TOKEN=your-secure-token-here-change-in-production
+
+# Storage Directories
+PERSIST_DIRECTORY=./chroma
+UPLOAD_FOLDER=./uploads
+
+# Flask Configuration
+DEBUG=False
+SECRET_KEY=your-secret-key-here
