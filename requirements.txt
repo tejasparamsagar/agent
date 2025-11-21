@@ -23,5 +23,5 @@ torch
 pypdf
 python-docx
 
-# Utilities
+# Utilitiess
 requests
